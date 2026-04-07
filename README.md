@@ -19,6 +19,3 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midasik22&theme=radical)
 
-## 🏆 Бейджи
-![Followers](https://img.shields.io/github/followers/midasik22?style=social)  
-![Repositories](https://img.shields.io/github/repos/midasik22?style=flat-square)
