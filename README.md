@@ -1,16 +1,29 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Header</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-<!--
-**midasik22/midasik22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="header">
+    <h1>My GitHub Profile</h1>
+    <p>Ya krutoy specialist!</p>
+</div>
 
-Here are some ideas to get you started:
+<div class="github-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
+    </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark" alt="Trophies">
+    </a>
+
+    <img src="https://komarev.com/ghpvc/?username=anuraghazra&color=green" alt="Profile Views">
+</div>
+
+</body>
+</html>
