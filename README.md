@@ -1,29 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+# Привет, я мидас 👋
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p>Ya krutoy specialist!</p>
-</div>
+Я увлечённый разработчик, который любит создавать интересные проекты и изучать новые технологии.  
 
-<div class="github-stats">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
-    </a>
 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark" alt="Trophies">
-    </a>
+## 🛠 Навыки
+- Языки: JavaScript, Python, HTML, CSS, C++
+- Фреймворки: Node.js, Express
+- Базы данных: SQLite
 
-    <img src="https://komarev.com/ghpvc/?username=anuraghazra&color=green" alt="Profile Views">
-</div>
+## 📈 GitHub статистика
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-github-username&layout=compact)](https://github.com/ваш-github-username/github-readme-stats)
 
-</body>
-</html>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ваш-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ваш-github-username&color=green)
