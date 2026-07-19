@@ -5,6 +5,6 @@
 - **Базы данных:** SQLite, PostgreSQL
 - **Фреймворки и платформы:** Node.js, Express, Flask, Tauri
 
-![Arch Linux](https://shields.io)
-![Bash](https://shields.io)
+![Arch Linux](https://shields.io) ![Linux](https://shields.io) ![Bash](https://shields.io)
+
 
