@@ -1,7 +1,8 @@
 # Привет, я midasik22 👋
 
-## 🛠 Навыки
-- **Языки:** C++, Python, JavaScript, HTML, CSS, Rust, TypeScript, Assembly
-- **Базы данных:** SQLite, PostgreSQL
+## skill
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+          
 
 
